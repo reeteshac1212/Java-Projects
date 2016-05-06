@@ -16,7 +16,6 @@ public class mealCost {
        // System.out.println(tipPercent);
         double taxPercent1= mealCost*taxPercent/100;
         //System.out.println(taxPercent);
-        // cast the result of the rounding operation to an int and save it as totalCost 
         int totalCost = (int) Math.round(mealCost+tipPercent1+taxPercent1);
         System.out.println(totalCost);
         // Print your result
