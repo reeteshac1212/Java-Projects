@@ -1,7 +1,9 @@
 package com.java;
 
 import java.util.Scanner;
-
+/*
+ * Sum them all
+ */
 public class SumOfArray {
 
     public static void main(String[] args) {
